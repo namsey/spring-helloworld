@@ -1,0 +1,20 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>helloworld</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.springframework.ide.eclipse.boot.maven.bootiful</name>
+			<arguments>
+				<argument>--spring.version=5.0.0.RELEASE</argument>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.springframework.ide.eclipse.boot.maven.bootiful</nature>
+	</natures>
+</projectDescription>
